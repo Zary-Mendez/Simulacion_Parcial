@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: f48f5f4ee8839b64db9347d33c7eca6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4718489136737354756
+    second: BannerPokemon_0
+  - first:
+      213: 6893655810661674287
+    second: BannerPokemon_1
+  - first:
+      213: -2583575839671798129
+    second: BannerPokemon_2
+  - first:
+      213: 4205591433769639668
+    second: BannerPokemon_3
+  - first:
+      213: -2243111539299247373
+    second: BannerPokemon_4
+  - first:
+      213: 8073312311823200382
+    second: BannerPokemon_5
+  - first:
+      213: 5247477161934248763
+    second: BannerPokemon_6
+  - first:
+      213: -5659369437517389856
+    second: BannerPokemon_7
+  - first:
+      213: -7511611001234232008
+    second: BannerPokemon_8
+  - first:
+      213: -4297633920128433252
+    second: BannerPokemon_9
+  - first:
+      213: 6249010281479819533
+    second: BannerPokemon_10
+  - first:
+      213: -2672005591509367821
+    second: BannerPokemon_11
+  - first:
+      213: -1199536911383775252
+    second: BannerPokemon_12
+  - first:
+      213: -4542922947915632219
+    second: BannerPokemon_13
+  - first:
+      213: 2263809953312752920
+    second: BannerPokemon_14
+  - first:
+      213: 8073797500937268144
+    second: BannerPokemon_15
+  - first:
+      213: -7452868527989237108
+    second: BannerPokemon_16
+  - first:
+      213: 6068612084289274170
+    second: BannerPokemon_17
+  - first:
+      213: 7910354987671458614
+    second: BannerPokemon_18
+  - first:
+      213: 2771370786634391994
+    second: BannerPokemon_19
+  - first:
+      213: -2562678627435210180
+    second: BannerPokemon_20
+  - first:
+      213: 7589177146127326751
+    second: BannerPokemon_21
+  - first:
+      213: -1261171296783704910
+    second: BannerPokemon_22
+  - first:
+      213: 2510208318568240691
+    second: BannerPokemon_23
+  - first:
+      213: -4248436567615704523
+    second: BannerPokemon_24
+  - first:
+      213: -8961404818016899950
+    second: BannerPokemon_25
+  - first:
+      213: 5742569071775508564
+    second: BannerPokemon_26
+  - first:
+      213: 724364818313955573
+    second: BannerPokemon_27
+  - first:
+      213: -6226461266862547238
+    second: BannerPokemon_28
+  - first:
+      213: 4552911427907539058
+    second: BannerPokemon_29
+  - first:
+      213: -6825966472884744097
+    second: BannerPokemon_30
+  - first:
+      213: -8692518612053614539
+    second: BannerPokemon_31
+  - first:
+      213: 4543746369587399270
+    second: BannerPokemon_32
+  - first:
+      213: 816006776988933955
+    second: BannerPokemon_33
+  - first:
+      213: 7930659647742547168
+    second: BannerPokemon_34
+  - first:
+      213: -1739808671304882208
+    second: BannerPokemon_35
+  - first:
+      213: 6162754426640613627
+    second: BannerPokemon_36
+  - first:
+      213: -8896545921438055947
+    second: BannerPokemon_37
+  - first:
+      213: -8788256712346556238
+    second: BannerPokemon_38
+  - first:
+      213: -9226869530970897
+    second: BannerPokemon_39
+  - first:
+      213: 6818941216668076979
+    second: BannerPokemon_40
+  - first:
+      213: 7473980385810595417
+    second: BannerPokemon_41
+  - first:
+      213: 8622132302967124985
+    second: BannerPokemon_42
+  - first:
+      213: 6020969407228661968
+    second: BannerPokemon_43
+  - first:
+      213: -5986955532518569528
+    second: BannerPokemon_44
+  - first:
+      213: 4104829445720283091
+    second: BannerPokemon_45
+  - first:
+      213: 7034570588240310667
+    second: BannerPokemon_46
+  - first:
+      213: 7150575483949278489
+    second: BannerPokemon_47
+  - first:
+      213: -3761405073383510966
+    second: BannerPokemon_48
+  - first:
+      213: -2538337798017273496
+    second: BannerPokemon_49
+  - first:
+      213: -4319519186561101968
+    second: BannerPokemon_50
+  - first:
+      213: -415162670685860883
+    second: BannerPokemon_51
+  - first:
+      213: -2566647730451779225
+    second: BannerPokemon_52
+  - first:
+      213: -6562684655639971624
+    second: BannerPokemon_53
+  - first:
+      213: 3970676975043559206
+    second: BannerPokemon_54
+  - first:
+      213: -5744729535460654401
+    second: BannerPokemon_55
+  - first:
+      213: -5563495251006365322
+    second: BannerPokemon_56
+  - first:
+      213: -3484006825831472699
+    second: BannerPokemon_57
+  - first:
+      213: 3495018682383345010
+    second: BannerPokemon_58
+  - first:
+      213: 4411334402215508802
+    second: BannerPokemon_59
+  - first:
+      213: 8062145168239585573
+    second: BannerPokemon_60
+  - first:
+      213: 3156198717751016235
+    second: BannerPokemon_61
+  - first:
+      213: -2384919264590395248
+    second: BannerPokemon_62
+  - first:
+      213: 5270863292333377640
+    second: BannerPokemon_63
+  - first:
+      213: 5092794430692492427
+    second: BannerPokemon_64
+  - first:
+      213: 3221295643663728795
+    second: BannerPokemon_65
+  - first:
+      213: 3327499634318552014
+    second: BannerPokemon_66
+  - first:
+      213: 4877330999234440670
+    second: BannerPokemon_67
+  - first:
+      213: -220076311119984868
+    second: BannerPokemon_68
+  - first:
+      213: 2610284125912149233
+    second: BannerPokemon_69
+  - first:
+      213: -1686416435997449589
+    second: BannerPokemon_70
+  - first:
+      213: -8605347443319609211
+    second: BannerPokemon_71
+  - first:
+      213: 542620271636752062
+    second: BannerPokemon_72
+  - first:
+      213: 6480797303185480771
+    second: BannerPokemon_73
+  - first:
+      213: -5386724863011949859
+    second: BannerPokemon_74
+  - first:
+      213: -3980416077778416120
+    second: BannerPokemon_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BannerPokemon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 2172
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbfa38312f848eb0800000000000000
+      internalID: -4718489136737354756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 659
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2deb468f6f2baf50800000000000000
+      internalID: 6893655810661674287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_2
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 697
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86b412567b452cd0800000000000000
+      internalID: -2583575839671798129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 661
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fed34870234d5a30800000000000000
+      internalID: 4205591433769639668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_4
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 666
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa1d7480fdded0e0800000000000000
+      internalID: -2243111539299247373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 683
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70720bf5ca2a0070800000000000000
+      internalID: 8073312311823200382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_6
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 631
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bd01c2da8c2d840800000000000000
+      internalID: 5247477161934248763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 683
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd2103b71e571b0800000000000000
+      internalID: -5659369437517389856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 657
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d6484b79561c790800000000000000
+      internalID: -7511611001234232008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_9
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 665
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93431038bcbb54c0800000000000000
+      internalID: -4297633920128433252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_10
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 667
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d015e590eb1f8b650800000000000000
+      internalID: 6249010281479819533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_11
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 673
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f30a3842112bead0800000000000000
+      internalID: -2672005591509367821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_12
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 656
+        width: 138
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce73006d8836a5fe0800000000000000
+      internalID: -1199536911383775252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_13
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 691
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1b487f5ab44f0c0800000000000000
+      internalID: -4542922947915632219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 665
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815433a882baa6f10800000000000000
+      internalID: 2263809953312752920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 657
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb6dcfdc04eb0070800000000000000
+      internalID: 8073797500937268144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_16
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 661
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a538f8f87129890800000000000000
+      internalID: -7452868527989237108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 640
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3184bba98a083450800000000000000
+      internalID: 6068612084289274170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 664
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633956f43f937cd60800000000000000
+      internalID: 7910354987671458614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_19
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 655
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1ec3e0c03e57620800000000000000
+      internalID: 2771370786634391994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_20
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 661
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a1d32bd598f6cd0800000000000000
+      internalID: -2562678627435210180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_21
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 663
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e9e6cb76c225960800000000000000
+      internalID: 7589177146127326751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_22
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 662
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcd946336b6f7ee0800000000000000
+      internalID: -1261171296783704910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_23
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 642
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3369d748a2d06d220800000000000000
+      internalID: 2510208318568240691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 650
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5327c7073758a05c0800000000000000
+      internalID: -4248436567615704523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_25
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 617
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ce0ad2cc1b2a380800000000000000
+      internalID: -8961404818016899950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_26
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 635
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458e2553524b1bf40800000000000000
+      internalID: 5742569071775508564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 613
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8c463e6f57d0a00800000000000000
+      internalID: 724364818313955573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_28
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 604
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeddec877a2799a0800000000000000
+      internalID: -6226461266862547238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_29
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 168
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270de3242d03f2f30800000000000000
+      internalID: 4552911427907539058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_30
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 170
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f509afe88ab4541a0800000000000000
+      internalID: -6825966472884744097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_31
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 136
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530a2159068fd5780800000000000000
+      internalID: -8692518612053614539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_32
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 134
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4ab4df31ae0f30800000000000000
+      internalID: 4543746369587399270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_33
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 94
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f9cbc17d9035b00800000000000000
+      internalID: 816006776988933955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 55
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e418326eec5f0e60800000000000000
+      internalID: 7930659647742547168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_35
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 61
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e76ab93b35fad7e0800000000000000
+      internalID: -1739808671304882208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_36
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 62
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf041e5df70868550800000000000000
+      internalID: 6162754426640613627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 69
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f10cb0de9e198480800000000000000
+      internalID: -8896545921438055947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_38
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 85
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b824a11517d90680800000000000000
+      internalID: -8788256712346556238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_39
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 71
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4b73706383fdff0800000000000000
+      internalID: -9226869530970897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_40
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 81
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb45c388eeb1ae50800000000000000
+      internalID: 6818941216668076979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_41
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 53
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e3a72ef89e8b760800000000000000
+      internalID: 7473980385810595417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_42
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 84
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3b6c4c5a7f7a770800000000000000
+      internalID: 8622132302967124985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_43
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 83
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0db5186c7ce8350800000000000000
+      internalID: 6020969407228661968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_44
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 65
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9cb26d9af0aeca0800000000000000
+      internalID: -5986955532518569528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_45
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 79
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d798bfe1a847f830800000000000000
+      internalID: 4104829445720283091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_46
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 71
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b817973eda0df9160800000000000000
+      internalID: 7034570588240310667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_47
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 81
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915e96c6482fb3360800000000000000
+      internalID: 7150575483949278489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_48
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 73
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4caf98b30ecccbc0800000000000000
+      internalID: -3761405073383510966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_49
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 66
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861bb3da83306ccd0800000000000000
+      internalID: -2538337798017273496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_50
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f8a848f2cfd04c0800000000000000
+      internalID: -4319519186561101968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_51
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb44c920cb0d3af0800000000000000
+      internalID: -415162670685860883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_52
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 83
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761fbd2ec7f616cd0800000000000000
+      internalID: -2566647730451779225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_53
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 71
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d83ca78319ace4a0800000000000000
+      internalID: -6562684655639971624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_54
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f3b47dbadaa1730800000000000000
+      internalID: 3970676975043559206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_55
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 77
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb24c24acee9640b0800000000000000
+      internalID: -5744729535460654401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_56
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 63
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671613ebb8e7ac2b0800000000000000
+      internalID: -5563495251006365322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_57
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 81
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1674f304256afc0800000000000000
+      internalID: -3484006825831472699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_58
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 74
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27520d669fcc08030800000000000000
+      internalID: 3495018682383345010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 77
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bf38d3445383d30800000000000000
+      internalID: 4411334402215508802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_60
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5296d80c05e72ef60800000000000000
+      internalID: 8062145168239585573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_61
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 73
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bb714f2021dcb20800000000000000
+      internalID: 3156198717751016235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_62
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 63
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0988a10909017eed0800000000000000
+      internalID: -2384919264590395248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_63
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8684d27fc3ed52940800000000000000
+      internalID: 5270863292333377640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84838b4d8d3da640800000000000000
+      internalID: 5092794430692492427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_65
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 67
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90071d125754bc20800000000000000
+      internalID: 3221295643663728795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_66
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 66
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbaccd9947ad2e20800000000000000
+      internalID: 3327499634318552014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_67
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 55
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddae5dd3b2cfa340800000000000000
+      internalID: 4877330999234440670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_68
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 69
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c170734d2c122fcf0800000000000000
+      internalID: -220076311119984868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_69
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 55
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fca5d72597993420800000000000000
+      internalID: 2610284125912149233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_70
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 52
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82edfcbf25a898e0800000000000000
+      internalID: -1686416435997449589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 46
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5886e18e71aa39880800000000000000
+      internalID: -8605347443319609211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_72
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 45
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6a5da1346c78700800000000000000
+      internalID: 542620271636752062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_73
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 57
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c1ead7fca60f950800000000000000
+      internalID: 6480797303185480771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_74
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 47
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd27865f6428e35b0800000000000000
+      internalID: -5386724863011949859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BannerPokemon_75
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 31
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e83c99aa8b2c8c0800000000000000
+      internalID: -3980416077778416120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BannerPokemon_0: -4718489136737354756
+      BannerPokemon_1: 6893655810661674287
+      BannerPokemon_10: 6249010281479819533
+      BannerPokemon_11: -2672005591509367821
+      BannerPokemon_12: -1199536911383775252
+      BannerPokemon_13: -4542922947915632219
+      BannerPokemon_14: 2263809953312752920
+      BannerPokemon_15: 8073797500937268144
+      BannerPokemon_16: -7452868527989237108
+      BannerPokemon_17: 6068612084289274170
+      BannerPokemon_18: 7910354987671458614
+      BannerPokemon_19: 2771370786634391994
+      BannerPokemon_2: -2583575839671798129
+      BannerPokemon_20: -2562678627435210180
+      BannerPokemon_21: 7589177146127326751
+      BannerPokemon_22: -1261171296783704910
+      BannerPokemon_23: 2510208318568240691
+      BannerPokemon_24: -4248436567615704523
+      BannerPokemon_25: -8961404818016899950
+      BannerPokemon_26: 5742569071775508564
+      BannerPokemon_27: 724364818313955573
+      BannerPokemon_28: -6226461266862547238
+      BannerPokemon_29: 4552911427907539058
+      BannerPokemon_3: 4205591433769639668
+      BannerPokemon_30: -6825966472884744097
+      BannerPokemon_31: -8692518612053614539
+      BannerPokemon_32: 4543746369587399270
+      BannerPokemon_33: 816006776988933955
+      BannerPokemon_34: 7930659647742547168
+      BannerPokemon_35: -1739808671304882208
+      BannerPokemon_36: 6162754426640613627
+      BannerPokemon_37: -8896545921438055947
+      BannerPokemon_38: -8788256712346556238
+      BannerPokemon_39: -9226869530970897
+      BannerPokemon_4: -2243111539299247373
+      BannerPokemon_40: 6818941216668076979
+      BannerPokemon_41: 7473980385810595417
+      BannerPokemon_42: 8622132302967124985
+      BannerPokemon_43: 6020969407228661968
+      BannerPokemon_44: -5986955532518569528
+      BannerPokemon_45: 4104829445720283091
+      BannerPokemon_46: 7034570588240310667
+      BannerPokemon_47: 7150575483949278489
+      BannerPokemon_48: -3761405073383510966
+      BannerPokemon_49: -2538337798017273496
+      BannerPokemon_5: 8073312311823200382
+      BannerPokemon_50: -4319519186561101968
+      BannerPokemon_51: -415162670685860883
+      BannerPokemon_52: -2566647730451779225
+      BannerPokemon_53: -6562684655639971624
+      BannerPokemon_54: 3970676975043559206
+      BannerPokemon_55: -5744729535460654401
+      BannerPokemon_56: -5563495251006365322
+      BannerPokemon_57: -3484006825831472699
+      BannerPokemon_58: 3495018682383345010
+      BannerPokemon_59: 4411334402215508802
+      BannerPokemon_6: 5247477161934248763
+      BannerPokemon_60: 8062145168239585573
+      BannerPokemon_61: 3156198717751016235
+      BannerPokemon_62: -2384919264590395248
+      BannerPokemon_63: 5270863292333377640
+      BannerPokemon_64: 5092794430692492427
+      BannerPokemon_65: 3221295643663728795
+      BannerPokemon_66: 3327499634318552014
+      BannerPokemon_67: 4877330999234440670
+      BannerPokemon_68: -220076311119984868
+      BannerPokemon_69: 2610284125912149233
+      BannerPokemon_7: -5659369437517389856
+      BannerPokemon_70: -1686416435997449589
+      BannerPokemon_71: -8605347443319609211
+      BannerPokemon_72: 542620271636752062
+      BannerPokemon_73: 6480797303185480771
+      BannerPokemon_74: -5386724863011949859
+      BannerPokemon_75: -3980416077778416120
+      BannerPokemon_8: -7511611001234232008
+      BannerPokemon_9: -4297633920128433252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
