@@ -1,0 +1,4667 @@
+fileFormatVersion: 2
+guid: e3b53f02a5d3a4f449d380a6df1c8c94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7795009029933506139
+    second: HierbaAlta_0
+  - first:
+      213: -7857860306924103914
+    second: HierbaAlta_1
+  - first:
+      213: -773223824931211226
+    second: HierbaAlta_2
+  - first:
+      213: -2042314471667840457
+    second: HierbaAlta_3
+  - first:
+      213: -5868953148352368624
+    second: HierbaAlta_4
+  - first:
+      213: -7705074521790232345
+    second: HierbaAlta_5
+  - first:
+      213: 3053905965831969154
+    second: HierbaAlta_6
+  - first:
+      213: 8808622944180461095
+    second: HierbaAlta_7
+  - first:
+      213: 7024109514196403537
+    second: HierbaAlta_8
+  - first:
+      213: 8418472251454245860
+    second: HierbaAlta_9
+  - first:
+      213: -583044433414718205
+    second: HierbaAlta_10
+  - first:
+      213: -2520292152595918982
+    second: HierbaAlta_11
+  - first:
+      213: -3805697841857845591
+    second: HierbaAlta_12
+  - first:
+      213: -5220129428104195598
+    second: HierbaAlta_13
+  - first:
+      213: -4309933221660063620
+    second: HierbaAlta_14
+  - first:
+      213: -7422974480354245244
+    second: HierbaAlta_15
+  - first:
+      213: 2090751273627991173
+    second: HierbaAlta_16
+  - first:
+      213: -4062598020777231510
+    second: HierbaAlta_17
+  - first:
+      213: -8217512066193416687
+    second: HierbaAlta_18
+  - first:
+      213: 9084893550770839869
+    second: HierbaAlta_19
+  - first:
+      213: 66278820634134122
+    second: HierbaAlta_20
+  - first:
+      213: 7726947858150856544
+    second: HierbaAlta_21
+  - first:
+      213: -4880326088871481189
+    second: HierbaAlta_22
+  - first:
+      213: -8941704654544991680
+    second: HierbaAlta_23
+  - first:
+      213: 3606799833137051973
+    second: HierbaAlta_24
+  - first:
+      213: -5912433174073205154
+    second: HierbaAlta_25
+  - first:
+      213: -6896748237267397430
+    second: HierbaAlta_26
+  - first:
+      213: 2160229445178738339
+    second: HierbaAlta_27
+  - first:
+      213: 6155181459561258684
+    second: HierbaAlta_28
+  - first:
+      213: -6686874642176200980
+    second: HierbaAlta_29
+  - first:
+      213: -610599461607550768
+    second: HierbaAlta_30
+  - first:
+      213: 8891546473601604217
+    second: HierbaAlta_31
+  - first:
+      213: 9023669228684036561
+    second: HierbaAlta_32
+  - first:
+      213: 2042806973376625668
+    second: HierbaAlta_33
+  - first:
+      213: 5504112980944526203
+    second: HierbaAlta_34
+  - first:
+      213: -6432857598790262926
+    second: HierbaAlta_35
+  - first:
+      213: -2519289748909752532
+    second: HierbaAlta_36
+  - first:
+      213: -4666636510444085686
+    second: HierbaAlta_37
+  - first:
+      213: -6450795384786112120
+    second: HierbaAlta_38
+  - first:
+      213: -6862653106161335614
+    second: HierbaAlta_39
+  - first:
+      213: 6509075207598399735
+    second: HierbaAlta_40
+  - first:
+      213: 7168676544080424545
+    second: HierbaAlta_41
+  - first:
+      213: -3405794414597971977
+    second: HierbaAlta_42
+  - first:
+      213: 46500761818236924
+    second: HierbaAlta_43
+  - first:
+      213: -1978489644898072356
+    second: HierbaAlta_44
+  - first:
+      213: 2360035192836289742
+    second: HierbaAlta_45
+  - first:
+      213: -5213241235668087198
+    second: HierbaAlta_46
+  - first:
+      213: 6007449678373030311
+    second: HierbaAlta_47
+  - first:
+      213: -6275856186490065115
+    second: HierbaAlta_48
+  - first:
+      213: 1857512282712525000
+    second: HierbaAlta_49
+  - first:
+      213: -2071806960980894033
+    second: HierbaAlta_50
+  - first:
+      213: -2548500798200740496
+    second: HierbaAlta_51
+  - first:
+      213: 2137641802705182856
+    second: HierbaAlta_52
+  - first:
+      213: -2163094375311444644
+    second: HierbaAlta_53
+  - first:
+      213: -4104132988466647246
+    second: HierbaAlta_54
+  - first:
+      213: -3546661031680329015
+    second: HierbaAlta_55
+  - first:
+      213: 7946744196682088479
+    second: HierbaAlta_56
+  - first:
+      213: 7536744909529234735
+    second: HierbaAlta_57
+  - first:
+      213: 3937074691308840497
+    second: HierbaAlta_58
+  - first:
+      213: -5127213661983860189
+    second: HierbaAlta_59
+  - first:
+      213: -5847192363389218448
+    second: HierbaAlta_60
+  - first:
+      213: -8134046041917726998
+    second: HierbaAlta_61
+  - first:
+      213: -3822344980724151786
+    second: HierbaAlta_62
+  - first:
+      213: 3221524885945812769
+    second: HierbaAlta_63
+  - first:
+      213: 5363574537186990072
+    second: HierbaAlta_64
+  - first:
+      213: 8375447483325998378
+    second: HierbaAlta_65
+  - first:
+      213: 6014857956953254229
+    second: HierbaAlta_66
+  - first:
+      213: 7027031900373739811
+    second: HierbaAlta_67
+  - first:
+      213: 5501852277345986398
+    second: HierbaAlta_68
+  - first:
+      213: -1687826368918448008
+    second: HierbaAlta_69
+  - first:
+      213: 1148511144740626181
+    second: HierbaAlta_70
+  - first:
+      213: -3381254616345116688
+    second: HierbaAlta_71
+  - first:
+      213: -3755692826945498882
+    second: HierbaAlta_72
+  - first:
+      213: -8553171746385038570
+    second: HierbaAlta_73
+  - first:
+      213: -9003178671181322824
+    second: HierbaAlta_74
+  - first:
+      213: 1008655160884317293
+    second: HierbaAlta_75
+  - first:
+      213: -8136173351382269305
+    second: HierbaAlta_76
+  - first:
+      213: 5686494297255192687
+    second: HierbaAlta_77
+  - first:
+      213: -3530343117733701868
+    second: HierbaAlta_78
+  - first:
+      213: 1865116539619073563
+    second: HierbaAlta_79
+  - first:
+      213: 7480787694288751833
+    second: HierbaAlta_80
+  - first:
+      213: -4805650848017108961
+    second: HierbaAlta_81
+  - first:
+      213: 3798531055667752538
+    second: HierbaAlta_82
+  - first:
+      213: 6744310182539347955
+    second: HierbaAlta_83
+  - first:
+      213: -7755769116744439248
+    second: HierbaAlta_84
+  - first:
+      213: 7751602161398842287
+    second: HierbaAlta_85
+  - first:
+      213: 6579215703321245922
+    second: HierbaAlta_86
+  - first:
+      213: -8593869353331228598
+    second: HierbaAlta_87
+  - first:
+      213: 8392052409023031351
+    second: HierbaAlta_88
+  - first:
+      213: 6002827067299943235
+    second: HierbaAlta_89
+  - first:
+      213: 5756861902375592327
+    second: HierbaAlta_90
+  - first:
+      213: -248826082276501902
+    second: HierbaAlta_91
+  - first:
+      213: 7681718728655865331
+    second: HierbaAlta_92
+  - first:
+      213: -797835036742178812
+    second: HierbaAlta_93
+  - first:
+      213: -6035504007463488995
+    second: HierbaAlta_94
+  - first:
+      213: 5897365242065434091
+    second: HierbaAlta_95
+  - first:
+      213: -3252530587740309030
+    second: HierbaAlta_96
+  - first:
+      213: -3478214669670892799
+    second: HierbaAlta_97
+  - first:
+      213: 4883018447674797076
+    second: HierbaAlta_98
+  - first:
+      213: 6275650858882942436
+    second: HierbaAlta_99
+  - first:
+      213: -5301406222056893501
+    second: HierbaAlta_100
+  - first:
+      213: -4655131690041417564
+    second: HierbaAlta_101
+  - first:
+      213: 3181873458651598161
+    second: HierbaAlta_102
+  - first:
+      213: 4812679929502294057
+    second: HierbaAlta_103
+  - first:
+      213: -8840915294309782364
+    second: HierbaAlta_104
+  - first:
+      213: -3069158644482439138
+    second: HierbaAlta_105
+  - first:
+      213: 8374757642195371302
+    second: HierbaAlta_106
+  - first:
+      213: 1840957578241946034
+    second: HierbaAlta_107
+  - first:
+      213: 609565976511169229
+    second: HierbaAlta_108
+  - first:
+      213: -276857106591432587
+    second: HierbaAlta_109
+  - first:
+      213: -7684493105840961345
+    second: HierbaAlta_110
+  - first:
+      213: -7804280603930955619
+    second: HierbaAlta_111
+  - first:
+      213: -5991899072577338244
+    second: HierbaAlta_112
+  - first:
+      213: -8741543392688080499
+    second: HierbaAlta_113
+  - first:
+      213: 4351343674178361242
+    second: HierbaAlta_114
+  - first:
+      213: 1876177787826649923
+    second: HierbaAlta_115
+  - first:
+      213: 6674955317321525508
+    second: HierbaAlta_116
+  - first:
+      213: 6896600595120666361
+    second: HierbaAlta_117
+  - first:
+      213: 4172389125073846306
+    second: HierbaAlta_118
+  - first:
+      213: -823828401973209416
+    second: HierbaAlta_119
+  - first:
+      213: 3604943926153216238
+    second: HierbaAlta_120
+  - first:
+      213: 8202328703854375287
+    second: HierbaAlta_121
+  - first:
+      213: -949614851832960871
+    second: HierbaAlta_122
+  - first:
+      213: 2537791962503628100
+    second: HierbaAlta_123
+  - first:
+      213: -593862620239298976
+    second: HierbaAlta_124
+  - first:
+      213: 3289104376338677545
+    second: HierbaAlta_125
+  - first:
+      213: 2487463819877010621
+    second: HierbaAlta_126
+  - first:
+      213: -8579774954553491464
+    second: HierbaAlta_127
+  - first:
+      213: 3029335328984537860
+    second: HierbaAlta_128
+  - first:
+      213: -1550987211341512872
+    second: HierbaAlta_129
+  - first:
+      213: -8993650710603312008
+    second: HierbaAlta_130
+  - first:
+      213: 2359466462359829148
+    second: HierbaAlta_131
+  - first:
+      213: -4001119468034096103
+    second: HierbaAlta_132
+  - first:
+      213: -1619650756647389903
+    second: HierbaAlta_133
+  - first:
+      213: 5457787595358246764
+    second: HierbaAlta_134
+  - first:
+      213: 8965142698428676491
+    second: HierbaAlta_135
+  - first:
+      213: 6765963831515817675
+    second: HierbaAlta_136
+  - first:
+      213: -5563595217615406313
+    second: HierbaAlta_137
+  - first:
+      213: 3469962545115744600
+    second: HierbaAlta_138
+  - first:
+      213: 3223059900952341483
+    second: HierbaAlta_139
+  - first:
+      213: 4777909290825286404
+    second: HierbaAlta_140
+  - first:
+      213: -5517422220584171678
+    second: HierbaAlta_141
+  - first:
+      213: 1469697998365291880
+    second: HierbaAlta_142
+  - first:
+      213: -375674948864404775
+    second: HierbaAlta_143
+  - first:
+      213: 5160217849608121009
+    second: HierbaAlta_144
+  - first:
+      213: 8763741481998047510
+    second: HierbaAlta_145
+  - first:
+      213: -2688754407201755632
+    second: HierbaAlta_146
+  - first:
+      213: 2279346191751167581
+    second: HierbaAlta_147
+  - first:
+      213: -6440076468613177916
+    second: HierbaAlta_148
+  - first:
+      213: -5290585794427763716
+    second: HierbaAlta_149
+  - first:
+      213: -881368740570912784
+    second: HierbaAlta_150
+  - first:
+      213: -3233758861086704312
+    second: HierbaAlta_151
+  - first:
+      213: 2856813750016691943
+    second: HierbaAlta_152
+  - first:
+      213: 7881480783152074541
+    second: HierbaAlta_153
+  - first:
+      213: -3023243195381079454
+    second: HierbaAlta_154
+  - first:
+      213: 583471237675843334
+    second: HierbaAlta_155
+  - first:
+      213: -116258047931977851
+    second: HierbaAlta_156
+  - first:
+      213: 8736057072467108025
+    second: HierbaAlta_157
+  - first:
+      213: -7268999418642990266
+    second: HierbaAlta_158
+  - first:
+      213: 5824553169589037340
+    second: HierbaAlta_159
+  - first:
+      213: -6273806293998494541
+    second: HierbaAlta_160
+  - first:
+      213: -8169413371223934201
+    second: HierbaAlta_161
+  - first:
+      213: -8715383779052796433
+    second: HierbaAlta_162
+  - first:
+      213: 442037754425288045
+    second: HierbaAlta_163
+  - first:
+      213: 4559361661040947690
+    second: HierbaAlta_164
+  - first:
+      213: 4520974881174312078
+    second: HierbaAlta_165
+  - first:
+      213: -5042046191300833246
+    second: HierbaAlta_166
+  - first:
+      213: 4689447717696458954
+    second: HierbaAlta_167
+  - first:
+      213: 5418626045947538394
+    second: HierbaAlta_168
+  - first:
+      213: -2278047969114297094
+    second: HierbaAlta_169
+  - first:
+      213: 7814547373788306693
+    second: HierbaAlta_170
+  - first:
+      213: -7052511559120895863
+    second: HierbaAlta_171
+  - first:
+      213: 5684455259431477099
+    second: HierbaAlta_172
+  - first:
+      213: 2097219431825306215
+    second: HierbaAlta_173
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HierbaAlta_0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 836
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e162ab96f6d2c60800000000000000
+      internalID: 7795009029933506139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 733
+        width: 155
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617952ffea543f290800000000000000
+      internalID: -7857860306924103914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 763
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6283b172705f445f0800000000000000
+      internalID: -773223824931211226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 859
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a49940fcd38a3e0800000000000000
+      internalID: -2042314471667840457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_4
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 735
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010fb05e43a4d8ea0800000000000000
+      internalID: -5868953148352368624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 854
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8c7c0bb83121590800000000000000
+      internalID: -7705074521790232345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_6
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 856
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2895cdeab47a16a20800000000000000
+      internalID: 3053905965831969154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_7
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 860
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e5b3cc5e38e3a70800000000000000
+      internalID: 8808622944180461095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 838
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1554e194366aa7160800000000000000
+      internalID: 7024109514196403537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 743
+        width: 152
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebc963e8eb64d470800000000000000
+      internalID: 8418472251454245860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 862
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dfb0a4d2c98e7f0800000000000000
+      internalID: -583044433414718205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 821
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc05ae3af160dd0800000000000000
+      internalID: -2520292152595918982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_12
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 850
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a79de9f17f2bc0800000000000000
+      internalID: -3805697841857845591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 864
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1594c41ff5e87b0800000000000000
+      internalID: -5220129428104195598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 857
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c780c45e19a0034c0800000000000000
+      internalID: -4309933221660063620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 856
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48502b9e90c4cf890800000000000000
+      internalID: -7422974480354245244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_16
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 795
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cba42c437d30d10800000000000000
+      internalID: 2090751273627991173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 842
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b3e5aef90ce97c0800000000000000
+      internalID: -4062598020777231510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_18
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 841
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e1e05605885fd80800000000000000
+      internalID: -8217512066193416687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_19
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 743
+        width: 118
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31eee3fc86041e70800000000000000
+      internalID: 9084893550770839869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_20
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 821
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6687087c387be000800000000000000
+      internalID: 66278820634134122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 829
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0671c0b4322ab3b60800000000000000
+      internalID: 7726947858150856544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_22
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 838
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b907ebc7749954cb0800000000000000
+      internalID: -4880326088871481189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_23
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 838
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a836bedfea8e380800000000000000
+      internalID: -8941704654544991680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_24
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 844
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549721ea65ded0230800000000000000
+      internalID: 3606799833137051973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_25
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 805
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e91258a51d2fda0800000000000000
+      internalID: -5912433174073205154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 156
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4106cc404d940a0800000000000000
+      internalID: -6896748237267397430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 813
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6c7392c3daafd10800000000000000
+      internalID: 2160229445178738339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 721
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe18390de89b6550800000000000000
+      internalID: 6155181459561258684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 773
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee258701f27333a0800000000000000
+      internalID: -6686874642176200980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 757
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d056d65607b687f0800000000000000
+      internalID: -610599461607550768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 783
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a96e6886e156b70800000000000000
+      internalID: 8891546473601604217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 741
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9c552aa538a3d70800000000000000
+      internalID: 9023669228684036561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 819
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cfdc87e12895c10800000000000000
+      internalID: 2042806973376625668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 775
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b90d81899826c40800000000000000
+      internalID: 5504112980944526203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_35
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 809
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f1f6db816e9b6a0800000000000000
+      internalID: -6432857598790262926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_36
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 807
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f73f5325fa90dd0800000000000000
+      internalID: -2519289748909752532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_37
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 765
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e9c1391d6cc3fb0800000000000000
+      internalID: -4666636510444085686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_38
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 781
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881381b76cb2a76a0800000000000000
+      internalID: -6450795384786112120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_39
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 747
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2c58e1c55f2c0a0800000000000000
+      internalID: -6862653106161335614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_40
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 805
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0643d2a61e45a50800000000000000
+      internalID: 6509075207598399735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_41
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 801
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ea697e5514c7360800000000000000
+      internalID: 7168676544080424545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_42
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 795
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffd0eb46003cb0d0800000000000000
+      internalID: -3405794414597971977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_43
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 792
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf706fd423435a000800000000000000
+      internalID: 46500761818236924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_44
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 789
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8cf04862efa84e0800000000000000
+      internalID: -1978489644898072356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_45
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 791
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec47d6ef08780c020800000000000000
+      internalID: 2360035192836289742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_46
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 789
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ec59397b8d6a7b0800000000000000
+      internalID: -5213241235668087198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_47
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 788
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9857557afbe5350800000000000000
+      internalID: 6007449678373030311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_48
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 739
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f62de9c0ea7e8a0800000000000000
+      internalID: -6275856186490065115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_49
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 809
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c84101649537c910800000000000000
+      internalID: 1857512282712525000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_50
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 809
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae5d8fbb867f33e0800000000000000
+      internalID: -2071806960980894033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_51
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 805
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075027dc608e1acd0800000000000000
+      internalID: -2548500798200740496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_52
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 773
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a443d4ed6aad10800000000000000
+      internalID: 2137641802705182856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_53
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 789
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557aef40252bf1e0800000000000000
+      internalID: -2163094375311444644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_54
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 773
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fab77aac03b07c0800000000000000
+      internalID: -4104132988466647246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_55
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 781
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca39fb259ab7cec0800000000000000
+      internalID: -3546661031680329015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_56
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 824
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1002244eb1884e60800000000000000
+      internalID: 7946744196682088479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_57
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 803
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d39375095e79860800000000000000
+      internalID: 7536744909529234735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_58
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 773
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136e4ad729c43a630800000000000000
+      internalID: 3937074691308840497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_59
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 755
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a1cede65a78d8b0800000000000000
+      internalID: -5127213661983860189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_60
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 727
+        width: 57
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0711fc676899adea0800000000000000
+      internalID: -5847192363389218448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_61
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 771
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee52dc88301e1f80800000000000000
+      internalID: -8134046041917726998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_62
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 797
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a80fedd7d44fac0800000000000000
+      internalID: -3822344980724151786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_63
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 740
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12781edb0d725bc20800000000000000
+      internalID: 3221524885945812769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_64
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 773
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f75c57cf9e3f6a40800000000000000
+      internalID: 5363574537186990072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_65
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 781
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25e59e6c119b3470800000000000000
+      internalID: 8375447483325998378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 733
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55961aa9171197350800000000000000
+      internalID: 6014857956953254229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 757
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3296d175848058160800000000000000
+      internalID: 7027031900373739811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_68
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 753
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57a1e50f718a5c40800000000000000
+      internalID: 5501852277345986398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_69
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 724
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87814162cd2a398e0800000000000000
+      internalID: -1687826368918448008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_70
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 743
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f97d21dc450ff00800000000000000
+      internalID: 1148511144740626181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 740
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff799157de5311d0800000000000000
+      internalID: -3381254616345116688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 749
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef05e6cb54911ebc0800000000000000
+      internalID: -3755692826945498882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_73
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 747
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613ffc10d970d4980800000000000000
+      internalID: -8553171746385038570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_74
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 741
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b52dde03b84e0380800000000000000
+      internalID: -9003178671181322824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_75
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 717
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ccf5556867ffd00800000000000000
+      internalID: 1008655160884317293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_76
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 757
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7824cd7b171861f80800000000000000
+      internalID: -8136173351382269305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_77
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 725
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f682e2d5f6c7aee40800000000000000
+      internalID: 5686494297255192687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_78
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 756
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417dc3493a3b10fc0800000000000000
+      internalID: -3530343117733701868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_79
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 741
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e53b86c9932e910800000000000000
+      internalID: 1865116539619073563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_80
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 753
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcc136e5c811d760800000000000000
+      internalID: 7480787694288751833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_81
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 729
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10b261e306ee4db0800000000000000
+      internalID: -4805650848017108961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_82
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 705
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ead51aed717b430800000000000000
+      internalID: 3798531055667752538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_83
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 721
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7ce4dc06a989d50800000000000000
+      internalID: 6744310182539347955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aa0848419fd5490800000000000000
+      internalID: -7755769116744439248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1765
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa304569819339b60800000000000000
+      internalID: 7751602161398842287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_86
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 702
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e87221f2d11e4b50800000000000000
+      internalID: 6579215703321245922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_87
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 709
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40839cfa517cb880800000000000000
+      internalID: -8593869353331228598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_88
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 643
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7386748f33f867470800000000000000
+      internalID: 8392052409023031351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_89
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 706
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3435382d9635e4350800000000000000
+      internalID: 6002827067299943235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_90
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 707
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781a318266b74ef40800000000000000
+      internalID: 5756861902375592327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2769e0b1ffdfb8cf0800000000000000
+      internalID: -248826082276501902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_92
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 636
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f58ff5fb72fa9a60800000000000000
+      internalID: 7681718728655865331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_93
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 122
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4082f9dd2458de4f0800000000000000
+      internalID: -797835036742178812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_94
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 114
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1231ba25159d3ca0800000000000000
+      internalID: -6035504007463488995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_95
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 110
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5bb0c2176a7d150800000000000000
+      internalID: 5897365242065434091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_96
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 94
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad975a0c9a0bcd2d0800000000000000
+      internalID: -3252530587740309030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 95
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bb6b1bf26eabfc0800000000000000
+      internalID: -3478214669670892799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_98
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 96
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ce5552867f3c340800000000000000
+      internalID: 4883018447674797076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_99
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 103
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5c712d437971750800000000000000
+      internalID: 6275650858882942436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_100
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 61
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3d04c012f9d66b0800000000000000
+      internalID: -5301406222056893501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_101
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0ea605466a56fb0800000000000000
+      internalID: -4655131690041417564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_102
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 45
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d0c276d09482c20800000000000000
+      internalID: 3181873458651598161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_103
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 88
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920e2afa5e21ac240800000000000000
+      internalID: 4812679929502294057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_104
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 43
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ace8598162ce4580800000000000000
+      internalID: -8840915294309782364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_105
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 76
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e180e4459782865d0800000000000000
+      internalID: -3069158644482439138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_106
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6250b0744bd193470800000000000000
+      internalID: 8374757642195371302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_107
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 80
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1bca1e9256c8910800000000000000
+      internalID: 1840957578241946034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_108
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 59
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2cc19a60d957800800000000000000
+      internalID: 609565976511169229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_109
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 76
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570431cade7682cf0800000000000000
+      internalID: -276857106591432587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_110
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 78
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb849630c323b5590800000000000000
+      internalID: -7684493105840961345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_111
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 45
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90793bb320a1b390800000000000000
+      internalID: -7804280603930955619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_112
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 71
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7409093a8f78dca0800000000000000
+      internalID: -5991899072577338244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_113
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f92a599ccfa680800000000000000
+      internalID: -8741543392688080499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_114
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 23
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a975b0b6404136c30800000000000000
+      internalID: 4351343674178361242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_115
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 78
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb2e2f1c5890a10800000000000000
+      internalID: 1876177787826649923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_116
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 17
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409ed84ee7432ac50800000000000000
+      internalID: 6674955317321525508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_117
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 73
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f63ae593b5a5bf50800000000000000
+      internalID: 6896600595120666361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_118
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 50
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220cab09dcd47e930800000000000000
+      internalID: 4172389125073846306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_119
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 71
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b65288ee6c2194f0800000000000000
+      internalID: -823828401973209416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_120
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 72
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee08099a665570230800000000000000
+      internalID: 3604943926153216238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_121
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 57
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771fa349f7684d170800000000000000
+      internalID: 8202328703854375287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_122
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 49
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998af03d25a42d2f0800000000000000
+      internalID: -949614851832960871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_123
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 55
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ced6185c083320800000000000000
+      internalID: 2537791962503628100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_124
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef043e71d22c7f0800000000000000
+      internalID: -593862620239298976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_125
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 63
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f79dcf00f35ad20800000000000000
+      internalID: 3289104376338677545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_126
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 58
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc76f3a2f358220800000000000000
+      internalID: 2487463819877010621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_127
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 63
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffbb0de2248ee880800000000000000
+      internalID: -8579774954553491464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_128
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 29
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b1aad7e6c5a0a20800000000000000
+      internalID: 3029335328984537860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_129
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 63
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fb0d84959c97ae0800000000000000
+      internalID: -1550987211341512872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_130
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874dc804452203380800000000000000
+      internalID: -8993650710603312008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_131
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 63
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ab76c1f328eb020800000000000000
+      internalID: 2359466462359829148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_132
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 67
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9148debea0b2978c0800000000000000
+      internalID: -4001119468034096103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_133
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 45
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f6d5d738d589e0800000000000000
+      internalID: -1619650756647389903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_134
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 53
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c679cd0c6e4fdbb40800000000000000
+      internalID: 5457787595358246764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_135
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 49
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89378ce8c59a6c70800000000000000
+      internalID: 8965142698428676491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_136
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 45
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc624a4d14885ed50800000000000000
+      internalID: 6765963831515817675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_137
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bb8f370a32ac2b0800000000000000
+      internalID: -5563595217615406313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_138
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 43
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859c885dc88c72030800000000000000
+      internalID: 3469962545115744600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_139
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 47
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebe11647eb9abc20800000000000000
+      internalID: 3223059900952341483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_140
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 37
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4030ea08f2b8e4240800000000000000
+      internalID: 4777909290825286404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_141
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 35
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267cb3219bd2e63b0800000000000000
+      internalID: -5517422220584171678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_142
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 56
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8657aafea8a656410800000000000000
+      internalID: 1469697998365291880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_143
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 47
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d29ce9df9559caf0800000000000000
+      internalID: -375674948864404775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_144
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa5815bc6cc9740800000000000000
+      internalID: 5160217849608121009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_145
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61959d112701f9970800000000000000
+      internalID: 8763741481998047510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_146
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e297ebc10afaad0800000000000000
+      internalID: -2688754407201755632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_147
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 39
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eb77fe84dd1af10800000000000000
+      internalID: 2279346191751167581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_148
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd95f1a29040a6a0800000000000000
+      internalID: -6440076468613177916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_149
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c76d20401496b0800000000000000
+      internalID: -5290585794427763716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_150
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 31
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f72326dccfb4c3f0800000000000000
+      internalID: -881368740570912784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_151
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 13
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84db7a3f2716f13d0800000000000000
+      internalID: -3233758861086704312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_152
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 28
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee423738f075a720800000000000000
+      internalID: 2856813750016691943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_153
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc8dfa305a06d60800000000000000
+      internalID: 7881480783152074541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_154
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 35
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262a1b5e4584b06d0800000000000000
+      internalID: -3023243195381079454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_155
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f7352dff7e81800800000000000000
+      internalID: 583471237675843334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_156
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 25
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58febbedbe7f26ef0800000000000000
+      internalID: -116258047931977851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_157
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 15
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e0fd2f95bc3970800000000000000
+      internalID: 8736057072467108025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_158
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b7343aa835f1b90800000000000000
+      internalID: -7268999418642990266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_159
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19eab87f38f4d050800000000000000
+      internalID: 5824553169589037340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_160
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 29
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc1c986a66fee8a0800000000000000
+      internalID: -6273806293998494541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_161
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 17
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bfed082d960ae80800000000000000
+      internalID: -8169413371223934201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_162
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 12
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe54b5801acbc0780800000000000000
+      internalID: -8715383779052796433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_163
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 13
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65a4d1eefe622600800000000000000
+      internalID: 442037754425288045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_164
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae171e0364b164f30800000000000000
+      internalID: 4559361661040947690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_165
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 17
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84dbd683babdbe30800000000000000
+      internalID: 4520974881174312078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_166
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2201762f3bd070ab0800000000000000
+      internalID: -5042046191300833246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_167
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 17
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0501e7ad3441140800000000000000
+      internalID: 4689447717696458954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_168
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 19
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbe16ffda3d23b40800000000000000
+      internalID: 5418626045947538394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_169
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc64a3117fb260e0800000000000000
+      internalID: -2278047969114297094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_170
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d1d17ee69d27c60800000000000000
+      internalID: 7814547373788306693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_171
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 15
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98043405a12702e90800000000000000
+      internalID: -7052511559120895863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_172
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 13
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f9300e0fd33ee40800000000000000
+      internalID: 5684455259431477099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HierbaAlta_173
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7627ef136f1da1d10800000000000000
+      internalID: 2097219431825306215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HierbaAlta_0: 7795009029933506139
+      HierbaAlta_1: -7857860306924103914
+      HierbaAlta_10: -583044433414718205
+      HierbaAlta_100: -5301406222056893501
+      HierbaAlta_101: -4655131690041417564
+      HierbaAlta_102: 3181873458651598161
+      HierbaAlta_103: 4812679929502294057
+      HierbaAlta_104: -8840915294309782364
+      HierbaAlta_105: -3069158644482439138
+      HierbaAlta_106: 8374757642195371302
+      HierbaAlta_107: 1840957578241946034
+      HierbaAlta_108: 609565976511169229
+      HierbaAlta_109: -276857106591432587
+      HierbaAlta_11: -2520292152595918982
+      HierbaAlta_110: -7684493105840961345
+      HierbaAlta_111: -7804280603930955619
+      HierbaAlta_112: -5991899072577338244
+      HierbaAlta_113: -8741543392688080499
+      HierbaAlta_114: 4351343674178361242
+      HierbaAlta_115: 1876177787826649923
+      HierbaAlta_116: 6674955317321525508
+      HierbaAlta_117: 6896600595120666361
+      HierbaAlta_118: 4172389125073846306
+      HierbaAlta_119: -823828401973209416
+      HierbaAlta_12: -3805697841857845591
+      HierbaAlta_120: 3604943926153216238
+      HierbaAlta_121: 8202328703854375287
+      HierbaAlta_122: -949614851832960871
+      HierbaAlta_123: 2537791962503628100
+      HierbaAlta_124: -593862620239298976
+      HierbaAlta_125: 3289104376338677545
+      HierbaAlta_126: 2487463819877010621
+      HierbaAlta_127: -8579774954553491464
+      HierbaAlta_128: 3029335328984537860
+      HierbaAlta_129: -1550987211341512872
+      HierbaAlta_13: -5220129428104195598
+      HierbaAlta_130: -8993650710603312008
+      HierbaAlta_131: 2359466462359829148
+      HierbaAlta_132: -4001119468034096103
+      HierbaAlta_133: -1619650756647389903
+      HierbaAlta_134: 5457787595358246764
+      HierbaAlta_135: 8965142698428676491
+      HierbaAlta_136: 6765963831515817675
+      HierbaAlta_137: -5563595217615406313
+      HierbaAlta_138: 3469962545115744600
+      HierbaAlta_139: 3223059900952341483
+      HierbaAlta_14: -4309933221660063620
+      HierbaAlta_140: 4777909290825286404
+      HierbaAlta_141: -5517422220584171678
+      HierbaAlta_142: 1469697998365291880
+      HierbaAlta_143: -375674948864404775
+      HierbaAlta_144: 5160217849608121009
+      HierbaAlta_145: 8763741481998047510
+      HierbaAlta_146: -2688754407201755632
+      HierbaAlta_147: 2279346191751167581
+      HierbaAlta_148: -6440076468613177916
+      HierbaAlta_149: -5290585794427763716
+      HierbaAlta_15: -7422974480354245244
+      HierbaAlta_150: -881368740570912784
+      HierbaAlta_151: -3233758861086704312
+      HierbaAlta_152: 2856813750016691943
+      HierbaAlta_153: 7881480783152074541
+      HierbaAlta_154: -3023243195381079454
+      HierbaAlta_155: 583471237675843334
+      HierbaAlta_156: -116258047931977851
+      HierbaAlta_157: 8736057072467108025
+      HierbaAlta_158: -7268999418642990266
+      HierbaAlta_159: 5824553169589037340
+      HierbaAlta_16: 2090751273627991173
+      HierbaAlta_160: -6273806293998494541
+      HierbaAlta_161: -8169413371223934201
+      HierbaAlta_162: -8715383779052796433
+      HierbaAlta_163: 442037754425288045
+      HierbaAlta_164: 4559361661040947690
+      HierbaAlta_165: 4520974881174312078
+      HierbaAlta_166: -5042046191300833246
+      HierbaAlta_167: 4689447717696458954
+      HierbaAlta_168: 5418626045947538394
+      HierbaAlta_169: -2278047969114297094
+      HierbaAlta_17: -4062598020777231510
+      HierbaAlta_170: 7814547373788306693
+      HierbaAlta_171: -7052511559120895863
+      HierbaAlta_172: 5684455259431477099
+      HierbaAlta_173: 2097219431825306215
+      HierbaAlta_18: -8217512066193416687
+      HierbaAlta_19: 9084893550770839869
+      HierbaAlta_2: -773223824931211226
+      HierbaAlta_20: 66278820634134122
+      HierbaAlta_21: 7726947858150856544
+      HierbaAlta_22: -4880326088871481189
+      HierbaAlta_23: -8941704654544991680
+      HierbaAlta_24: 3606799833137051973
+      HierbaAlta_25: -5912433174073205154
+      HierbaAlta_26: -6896748237267397430
+      HierbaAlta_27: 2160229445178738339
+      HierbaAlta_28: 6155181459561258684
+      HierbaAlta_29: -6686874642176200980
+      HierbaAlta_3: -2042314471667840457
+      HierbaAlta_30: -610599461607550768
+      HierbaAlta_31: 8891546473601604217
+      HierbaAlta_32: 9023669228684036561
+      HierbaAlta_33: 2042806973376625668
+      HierbaAlta_34: 5504112980944526203
+      HierbaAlta_35: -6432857598790262926
+      HierbaAlta_36: -2519289748909752532
+      HierbaAlta_37: -4666636510444085686
+      HierbaAlta_38: -6450795384786112120
+      HierbaAlta_39: -6862653106161335614
+      HierbaAlta_4: -5868953148352368624
+      HierbaAlta_40: 6509075207598399735
+      HierbaAlta_41: 7168676544080424545
+      HierbaAlta_42: -3405794414597971977
+      HierbaAlta_43: 46500761818236924
+      HierbaAlta_44: -1978489644898072356
+      HierbaAlta_45: 2360035192836289742
+      HierbaAlta_46: -5213241235668087198
+      HierbaAlta_47: 6007449678373030311
+      HierbaAlta_48: -6275856186490065115
+      HierbaAlta_49: 1857512282712525000
+      HierbaAlta_5: -7705074521790232345
+      HierbaAlta_50: -2071806960980894033
+      HierbaAlta_51: -2548500798200740496
+      HierbaAlta_52: 2137641802705182856
+      HierbaAlta_53: -2163094375311444644
+      HierbaAlta_54: -4104132988466647246
+      HierbaAlta_55: -3546661031680329015
+      HierbaAlta_56: 7946744196682088479
+      HierbaAlta_57: 7536744909529234735
+      HierbaAlta_58: 3937074691308840497
+      HierbaAlta_59: -5127213661983860189
+      HierbaAlta_6: 3053905965831969154
+      HierbaAlta_60: -5847192363389218448
+      HierbaAlta_61: -8134046041917726998
+      HierbaAlta_62: -3822344980724151786
+      HierbaAlta_63: 3221524885945812769
+      HierbaAlta_64: 5363574537186990072
+      HierbaAlta_65: 8375447483325998378
+      HierbaAlta_66: 6014857956953254229
+      HierbaAlta_67: 7027031900373739811
+      HierbaAlta_68: 5501852277345986398
+      HierbaAlta_69: -1687826368918448008
+      HierbaAlta_7: 8808622944180461095
+      HierbaAlta_70: 1148511144740626181
+      HierbaAlta_71: -3381254616345116688
+      HierbaAlta_72: -3755692826945498882
+      HierbaAlta_73: -8553171746385038570
+      HierbaAlta_74: -9003178671181322824
+      HierbaAlta_75: 1008655160884317293
+      HierbaAlta_76: -8136173351382269305
+      HierbaAlta_77: 5686494297255192687
+      HierbaAlta_78: -3530343117733701868
+      HierbaAlta_79: 1865116539619073563
+      HierbaAlta_8: 7024109514196403537
+      HierbaAlta_80: 7480787694288751833
+      HierbaAlta_81: -4805650848017108961
+      HierbaAlta_82: 3798531055667752538
+      HierbaAlta_83: 6744310182539347955
+      HierbaAlta_84: -7755769116744439248
+      HierbaAlta_85: 7751602161398842287
+      HierbaAlta_86: 6579215703321245922
+      HierbaAlta_87: -8593869353331228598
+      HierbaAlta_88: 8392052409023031351
+      HierbaAlta_89: 6002827067299943235
+      HierbaAlta_9: 8418472251454245860
+      HierbaAlta_90: 5756861902375592327
+      HierbaAlta_91: -248826082276501902
+      HierbaAlta_92: 7681718728655865331
+      HierbaAlta_93: -797835036742178812
+      HierbaAlta_94: -6035504007463488995
+      HierbaAlta_95: 5897365242065434091
+      HierbaAlta_96: -3252530587740309030
+      HierbaAlta_97: -3478214669670892799
+      HierbaAlta_98: 4883018447674797076
+      HierbaAlta_99: 6275650858882942436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
